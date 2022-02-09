@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **subhankarpanda556@gmail.com**
 
-- ⚡ Fun fact **For every line of code, one issue arises.**
+- ⚡ Fun fact **For every line of code, two issues arise.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
