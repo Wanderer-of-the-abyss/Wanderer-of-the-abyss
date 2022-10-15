@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on deep learning, nlp and gpu programming.
 - 🌱 I’m currently learning deep reinforcement learning
